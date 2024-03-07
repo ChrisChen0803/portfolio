@@ -1,0 +1,12 @@
+@import '../../vars.css';
+.ackTitle{
+    position: relative;
+    color:rgba(255,255,255,0.5);
+}
+.ackContent {
+    position: relative;
+    color:rgba(255,255,255,0.5);
+}
+.container{
+    margin-bottom: 10px;
+}

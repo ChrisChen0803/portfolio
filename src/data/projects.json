@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Eascor Web Development",
+    "imageSrc": "projects/eascor.png",
+    "description": "Help a Defi platform create their mainpage according to their demands.",
+    "skills": ["HTML&CSS","JavaScript", "Express","Figma"],
+    "demo": "https://eascor.onrender.com/",
+    "source": "https://github.com/ChrisChen0803/EascorProject"
+  },
+  {
+    "title": "Casino Simulator System Development",
+    "imageSrc": "projects/casino.png",
+    "description": "Implemented plenty of games and functionalities in a casino.",
+    "skills": ["C++", "Json"],
+    "demo": "https://github.com/ChrisChen0803/casino_simulator",
+    "source": "https://github.com/ChrisChen0803/casino_simulator"
+  },
+  {
+    "title": "Brand System Development",
+    "imageSrc": "projects/brand.png",
+    "description": "Dealed the exchange of data with the database.",
+    "skills": ["JavaScript", "Java", "MySQL","Maven","Vue","MyBatis"],
+    "demo": "https://github.com/ChrisChen0803/javaweb-demos/tree/main/brand-case",
+    "source": "https://github.com/ChrisChen0803/javaweb-demos/tree/main/brand-case"
+  }
+]
